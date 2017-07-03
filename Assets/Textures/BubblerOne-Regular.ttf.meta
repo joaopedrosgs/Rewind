@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 96873c3754f31d14a9c6b155937c0cf3
+timeCreated: 1498346736
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bubbler One
+  fontNames:
+  - Bubbler One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
